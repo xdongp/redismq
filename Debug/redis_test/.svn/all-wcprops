@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/redis_test
+END
+lzf_c.d
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/redis_test/lzf_c.d
+END
+lzf_d.d
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/redis_test/lzf_d.d
+END
+zmalloc.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/redis_test/zmalloc.d
+END
+ae_kqueue.d
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/redis_test/ae_kqueue.d
+END
+redis.d
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/redis_test/redis.d
+END
+redis-cli.d
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/redis_test/redis-cli.d
+END
+subdir.mk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/redis_test/subdir.mk
+END
+redis-stat.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/redis_test/redis-stat.d
+END
+ae_epoll.d
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/redis_test/ae_epoll.d
+END
+adlist.d
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/redis_test/adlist.d
+END
+dict.d
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/redis_test/dict.d
+END
+queue.d
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/redis_test/queue.d
+END
+ae_select.d
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/redis_test/ae_select.d
+END
+ae.d
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/redis_test/ae.d
+END
+linenoise.d
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/redis_test/linenoise.d
+END
+anet.d
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/redis_test/anet.d
+END
+hiredis.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/redis_test/hiredis.d
+END
+pqsort.d
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/redis_test/pqsort.d
+END
+sds.d
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/redis_test/sds.d
+END
+benchmark.d
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/redis_test/benchmark.d
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug
+END
+lzf_c.d
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/lzf_c.d
+END
+lzf_d.d
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/lzf_d.d
+END
+zmalloc.d
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/zmalloc.d
+END
+ae_kqueue.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/ae_kqueue.d
+END
+redis.d
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/redis.d
+END
+sources.mk
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/sources.mk
+END
+redis-cli.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/redis-cli.d
+END
+subdir.mk
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/subdir.mk
+END
+objects.mk
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/objects.mk
+END
+redis-stat.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/redis-stat.d
+END
+ae_epoll.d
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/ae_epoll.d
+END
+adlist.d
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/adlist.d
+END
+dict.d
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/dict.d
+END
+queue.d
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/queue.d
+END
+ae_select.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/ae_select.d
+END
+linenoise.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/linenoise.d
+END
+ae.d
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/ae.d
+END
+anet.d
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/anet.d
+END
+hiredis.d
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/hiredis.d
+END
+pqsort.d
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/pqsort.d
+END
+sds.d
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/sds.d
+END
+benchmark.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/benchmark.d
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/c/redis-queue/Debug/makefile
+END

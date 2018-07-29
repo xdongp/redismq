@@ -1,0 +1,3 @@
+1. 测试部署时请先修改 redis_test文件夹中的redis.conf文件中最后一行：file_path /home/xiongwei/12345/  请将该目录“/home/xiongwei/12345/”修改成 本机中已经有的目录（注意：该目录下不要有任何文件）
+
+2.

@@ -1,0 +1,25 @@
+Version=2
+
+[AutoCompletion]
+Delay=500
+Enabled=true
+MaxEntries=100
+MinChars=3
+
+[Project]
+AutoRebuildTime=10
+FileTypes=*.c *.h
+InvIndex=true
+Kernel=false
+Name=redis
+NoCompress=false
+RootPath=/home/panxiaodong/src/redis_test
+SlowPathDef=false
+TabWidth=0
+
+[Session]
+Bookmarks=
+CallTreeFiles=
+LastOpenFile=
+OpenFiles=
+QueryFiles=
